@@ -1,4 +1,5 @@
-import React, { useState, ChangeEvent, FormEvent } from "react";
+import { useState } from "react";
+import type { ChangeEvent, FormEvent } from "react";
 import FloatingInput from "./FloatingInput";
 import PasswordInput from "./PasswordInput";
 
